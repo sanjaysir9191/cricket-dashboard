@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 # API Headers
 HEADERS = {
-    'x-rapidapi-key': "54ffbbc380msh5079f9b3c9eed97p1d05bfjsn5c29ae64ce2f",
+    'x-rapidapi-key': "9c35a8f98cmsh035fc732e57a0a8p12ecefjsn2e1138c198b4",
     'x-rapidapi-host': "cricbuzz-cricket2.p.rapidapi.com"
 }
 
